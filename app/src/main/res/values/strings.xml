@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Volley</string>
+    <string name="show_json_object_response">Show Json Object Response</string>
+    <string name="show_json_array_response">Show Json Array Response</string>
+    <string name="sample">Sample</string>
+    <string name="submit">Submit</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="login">Login</string>
+    <string name="or">-----------OR-----------</string>
+    <string name="add_new_member">Add new Member</string>
+</resources>
